@@ -1,3 +1,9 @@
+body {
+  color: aqua;
+}
+h1 {
+  color: black;
+}
 .heading {
   display: flex;
   justify-content: center;
@@ -17,4 +23,7 @@
   flex-direction: column;
   margin: 10px;
   padding: 20px;
+}
+body {
+  color: aqua;
 }
