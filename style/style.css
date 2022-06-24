@@ -1,0 +1,10 @@
+.heading {
+  display: flex;
+  justify-content: center;
+}
+.input-field {
+  display: flex;
+}
+#search {
+  flex: 1;
+}
