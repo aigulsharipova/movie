@@ -8,3 +8,13 @@
 #search {
   flex: 1;
 }
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.movie {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  padding: 20px;
+}
