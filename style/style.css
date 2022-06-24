@@ -5,6 +5,9 @@ body {
   display: flex;
   justify-content: center;
 }
+h1 {
+  font-size: 60px;
+}
 .input-field {
   display: flex;
 }
@@ -29,4 +32,8 @@ a {
   color: black;
   font-size: 30px;
   text-decoration: none;
+}
+.copy {
+  display: flex;
+  justify-content: center;
 }
