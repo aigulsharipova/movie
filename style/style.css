@@ -37,3 +37,9 @@ a {
   display: flex;
   justify-content: center;
 }
+@media all and (max-width: 800px){
+  .container{
+    flex-direction: column;
+    height: 100vh;
+  }
+}
