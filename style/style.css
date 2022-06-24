@@ -1,13 +1,9 @@
-h1 {
-  color: black;
-}
 .heading {
   display: flex;
   justify-content: center;
 }
 .input-field {
   display: flex;
-  
 }
 #search {
   flex: 1;
