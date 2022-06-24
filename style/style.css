@@ -7,9 +7,12 @@ h1 {
 }
 .input-field {
   display: flex;
+  
 }
 #search {
   flex: 1;
+  padding: 10px;
+  font-size: 15px;
 }
 .container {
   display: flex;
@@ -27,8 +30,7 @@ body {
   background-color: rgb(219, 221, 222);
 }
 a {
-  
   color: black;
-  font-size: 40px;
+  font-size: 30px;
   text-decoration: none;
 }
