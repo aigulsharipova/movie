@@ -20,9 +20,14 @@ h1 {
   flex-direction: column;
   margin: 20px;
   padding: 20px;
-  width: 400px;
-  
+  width: 400px; 
 }
 body {
-  background-color: rgb(231, 231, 231);
+  background-color: rgb(219, 221, 222);
+}
+a {
+  text-align: center;
+  color: black;
+  font-size: 40px;
+  text-decoration: none;
 }
