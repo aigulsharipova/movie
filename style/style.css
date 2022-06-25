@@ -42,7 +42,7 @@ a {
 }
 
 @media all and (max-width: 800px){
-  .container{
+  body {
     flex-direction: column;
     height: 100vh;
   }
