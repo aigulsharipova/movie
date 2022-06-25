@@ -2,7 +2,7 @@
 
 The Furniture store's website.
 
-- ## [Furniture store](https://movie-search-site.glitch.me/)
+- ## [Movie](https://movie-search-site.glitch.me/)
 
 ---
 
