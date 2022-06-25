@@ -26,7 +26,6 @@ h1 {
   flex-direction: column;
   margin: 40px;
   padding: 40px;
-  width: 400px; 
 }
 a {
   color: black;
@@ -37,6 +36,7 @@ a {
   display: flex;
   justify-content: center;
 }
+
 @media all and (max-width: 800px){
   .container{
     flex-direction: column;
