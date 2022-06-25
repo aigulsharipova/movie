@@ -7,6 +7,10 @@ body {
 }
 h1 {
   font-size: 60px;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Merriweather', serif;
+  font-family: 'Titan One', cursive;
 }
 .input-field {
   display: flex;
