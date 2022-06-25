@@ -37,10 +37,8 @@ a {
   text-decoration: none;
 }
 .copy {
-  display: flex;
-  justify-content: center;
+  text-align: center;
 }
-
 @media all and (max-width: 800px){
   body {
     flex-direction: column;
