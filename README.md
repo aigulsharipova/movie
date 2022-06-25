@@ -1,6 +1,6 @@
 # Film search site
 
-The Furniture store's website.
+Movie search website.
 
 - ## [Movie](https://movie-search-site.glitch.me/)
 
